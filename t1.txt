@@ -1,8 +1,4 @@
 hello
 world
-<<<<<<< HEAD
 hiiii
 oi
-=======
-hii
->>>>>>> parent of 96c0834 (t1 editd)
