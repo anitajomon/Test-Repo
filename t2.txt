@@ -1,3 +1,6 @@
 first line
+<<<<<<< HEAD
 sec line
 thirdd
+=======
+>>>>>>> parent of d418251 (t2 edit)
